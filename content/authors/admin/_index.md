@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: FaMiXiiiiii
 
 # Full Name (for SEO)
 first_name: Nelson
@@ -10,20 +10,21 @@ last_name: Bighetti
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 多重宇宙体验师、生活行为艺术家
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 清华大学所在国家学生联合会（荣誉会员）
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 在知识的海洋里狗刨，在消费的浪潮中冲浪，在求职的沙漠里寻找绿洲的现代生活探险家。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 担任清华大学所在国家的学生
+  - 享受王俊凯的盛世美颜
+  - 担任各大购物平台资深买手
+  - 研究如何用最短时间从床上移动到工位
 
 education:
   courses:
