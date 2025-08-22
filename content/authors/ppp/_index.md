@@ -2,26 +2,16 @@
 # Display name
 title: Miss Mysterious Spinning Top
 
-# Full name (for SEO)
-# first_name: Alice
-# last_name: Wu
-
-
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: 旋转不停的科研实习生、自律型减肥战士
 
-# Organizations/Affiliations
-# organizations:
-#   - name: Stanford University
-#     url: ''
-
 # Short bio (displayed in user profile at end of posts)
 bio: 一个永远在旋转，永远在路上的神秘存在。不是在实验室就是在去健身房的路上，偶尔出现在厨房制造惊喜（或者惊吓）。
 
-研究方向:
+interests:
   - 同时处理N个任务的艺术
   - 计算卡路里与消耗量的微积分
   - 探索鸡胸肉的100种做法
@@ -31,8 +21,10 @@ bio: 一个永远在旋转，永远在路上的神秘存在。不是在实验室
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - 小傻狗一只
 ---
+
+# 神秘陀螺小姐 ⁉️
 
 一个你永远捕捉不到静止状态的神秘存在。她的存在就像量子态——当你观察到她时，她要么在实验室里摇试管，要么在健身房举铁，要么在厨房里研究如何把燕麦做得像甜品。
 
