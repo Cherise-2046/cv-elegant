@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: 团队导览
 date: 2022-10-24
 
 type: landing
@@ -8,28 +8,28 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 🍜 美食探索之旅
+        content: 记录我们尝遍各地美味的精彩瞬间
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: food.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: ✈️ 旅行冒险日记
+        content: 从城市小巷到山海之间，留下我们的足迹
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: trip.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 👥 友谊时光机
+        content: 每一个笑容都是我们最珍贵的财富
         align: right
         background:
           image:
