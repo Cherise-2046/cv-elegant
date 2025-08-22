@@ -3,7 +3,7 @@ title: 【🎉重磅新闻】「两个天才和一只小傻狗」官方网站正
 date: 2025-08-22
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+热烈祝贺「两个天才和一只小傻狗」官方网站正式上线！
 
 <!--more-->
 

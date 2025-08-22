@@ -1,13 +1,13 @@
 ---
-title: "两个天才和一只小傻狗官方网站正式上线"
+title: 两个天才和一只小傻狗官方网站正式上线
 
-event: "两个天才和一只小傻狗官网上线仪式"
+event: 两个天才和一只小傻狗官网上线仪式
 # event_url: https://example.org
 
 location: Shanghai China
 
-summary: "两个天才和一只小傻狗官方网站正式上线庆典活动"
-abstract: "在这充满欢乐的时刻，我们隆重举行官方网站上线仪式，共同见证这个记录友谊、美食与旅行美好时光的数字家园的诞生。"
+summary: 两个天才和一只小傻狗官方网站正式上线庆典活动
+abstract: 在这充满欢乐的时刻，我们隆重举行官方网站上线仪式，共同见证这个记录友谊、美食与旅行美好时光的数字家园的诞生。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -61,7 +61,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="认识我们的群友 →" %}}
+        {{% cta cta_link="./people/" cta_text="认识我们的成员 →" %}}
     design:
       columns: '1'
 ---
