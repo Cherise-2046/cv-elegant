@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Two Geniuses And A Clumsy # Website name
+baseURL: 'https://two-geniuses-and-a-clumsy.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -31,7 +31,7 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+#   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -44,7 +44,7 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
+#   publication_type: publication_types
   author: authors
 markup:
   _merge: deep

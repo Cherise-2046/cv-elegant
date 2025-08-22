@@ -8,18 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Two Geniuses
+        And A Clumsy
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **两个天才和一只小傻狗** 是一个充满创意与欢乐的群聊，专注于探索友谊、美食和旅游的奇妙结合。
   
   - block: collection
     content:
-      title: Latest News
+      title: 最新动态
       subtitle:
       text:
       count: 5
@@ -56,25 +56,12 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="认识我们的群友 →" %}}
     design:
       columns: '1'
 ---
