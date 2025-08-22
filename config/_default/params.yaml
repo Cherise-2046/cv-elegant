@@ -45,12 +45,13 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Two Geniuses And A Clumsy'
     license:
       enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
+  powered_by: false
 
 # Localization
 

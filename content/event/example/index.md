@@ -16,7 +16,7 @@ date: '2025-08-22T19:00:00Z'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-08-23T00:00:00Z'
+publishDate: '2025-08-22T00:00:00Z'
 
 authors: []
 tags: ['官网上线', '庆典活动', '友谊万岁']
