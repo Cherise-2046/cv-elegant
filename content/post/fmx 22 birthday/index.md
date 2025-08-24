@@ -1,7 +1,6 @@
 ---
 title: 【🎉超级重要】热烈庆祝FaMiXiiiiii 22岁生日快乐！🎂
 date: 2025-08-24
-
 image:
   focal_point: 'top' 
 ---
